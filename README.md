@@ -1,5 +1,4 @@
-# zyval-wedding
-Wedding Invitation Web of Fuzy and Risvaldi
+# trial-repo
 
 Hello people!
 This is my first time to make a commits.
